@@ -13,7 +13,7 @@ python main.py
 ## Ejecutar los tests
 
 pip install pytest
-pytest
+pytest -v -s
 
 ## Funcionalidades
 
