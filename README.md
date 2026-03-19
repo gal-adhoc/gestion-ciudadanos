@@ -28,4 +28,4 @@ pytest -v -s
 - Persona con mayor y menor edad
 - Segmentación por edad
 - Promedio de edad
-- Consulta de edad por DNI en O(1)
+- Consulta de edad por DNI
