@@ -8,12 +8,16 @@ Python 3.10+
 
 ## Ejecutar el programa
 
+```bash
 python main.py
+```
 
 ## Ejecutar los tests
 
+```bash
 pip install pytest
 pytest -v -s
+```
 
 ## Funcionalidades
 
